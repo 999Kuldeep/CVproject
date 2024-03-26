@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Resume Project</title>
+</head>
+
+<body>
+    <div>
+        <div>
+            <h2>Kuldeep Patidar</h2>
+            <p>Email: 205122040@nitt.edu | Phone:+918989513470</p>
+            <p>
+                LinkedIn:
+                <a href="abcd.com">https://www.linkedin.com/in/kuldeep-patidar-73751b204</a>
+            </p>
+            <p>Git: <a href="abcd.com">Git.com</a></p>
+        </div>
+        <table>
+            <tr>
+                <td>
+                    <img src="kuldeep.jpg" alt="KULDEEP" width="100px" height="100px" />
+                </td>
+                <td>
+                    <p>
+                        I am a student of Nit Trichy Pursuing MCA with Computer
+                        Applications stream. I secured All India Rank 98 in NIMCET-2022.
+                    </p>
+                </td>
+            </tr>
+        </table>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>Masters of computer Application,Nit Trichy,Trichy.</li>
+                <li>Becholar of Science,softvision college,Indore.</li>
+
+            </ul>
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Sort Visualizer : (APRIL 2023)</h3>
+                    Sort Visualizer is a web app for visualizing a bunch of different sorting algorithms Like Selection
+                    Sort, Bubble Sort, Insertion Sort, Merge Sort, Quick Sort, Heap Sort With the functionality of
+                    (Speed Control) and (Array Size Control). Technologies used: Html , Css, javascript .
+                </li>
+                <li>
+                    <h3>BILLING SYSTEM : (DEC 2022)</h3>
+                    <p>
+                        The supermarket billing system is intended to help supermarkets calculate and show invoices, as
+                        well as provides faster and more effective customer service. C++ language used in this project.
+                        Technologies used: C++, VS - code.
+                    </p>
+                </li>
+            </ul>
+        </section>
+        <section>
+            <h2>Areas of Interest</h2>
+            <ul>
+                <li>Data Structure and Algorithms</li>
+                <li>Mathematics and Problem Solving</li>
+                <li>OOPS Concept</li>
+                <li>DBMS</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>C</li>
+                <li>C++</li>
+                <li>Python</li>
+                <li>Java(Basic)</li>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+                <li>SQL</li>
+            </ul>
+        </section>
+    </div>
+</body>
+
+</html>
